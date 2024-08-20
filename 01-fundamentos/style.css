@@ -1,0 +1,70 @@
+.{
+    margin: 20px;
+}
+body{
+    padding-bottom: 500px;
+}
+
+h2{
+    font-size: 22px;
+    color: slateblue;
+}
+
+h3{
+    color: purple;         
+}
+
+.meu-titulo {
+    color: yellow;
+}
+
+.cor-laranja {
+    color: orangered;
+}
+#ultimo-titulo{
+    color: black;
+}
+.fundo-azul{
+    background-color: blue;
+}
+.texto-pequeno,
+#meu-paragrafo {
+    font-size: ;
+}
+#minha-div {
+    background-image: url(/01-fundamentos/assets/imagemfundo.jpg);
+    padding: 20px;
+}
+#altura-largura {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+#div-espacamento{
+    background-color: blue;
+    padding: 10px 20px 10px 20px;
+}
+#div-margem{
+    margin: 10px 20px 10px 20px;
+    background-color: brown;
+}   
+#div-borda{
+    background-color: bisque;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    border: 3px dashed black;
+} 
+#div-arredondamento{
+    background-color: bisque;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    border: 3px black;
+    border-radius: 20px;
+} 
+.meu-texto{
+    background-color: pink;
+    text-align: center;
+    color: black;
+}
